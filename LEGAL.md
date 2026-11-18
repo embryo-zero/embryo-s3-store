@@ -1,0 +1,18 @@
+# Legal notes for Embryo Object Store
+
+Embryo Object Store is a modified version of **minio** (https://github.com/minio/minio), copyright its authors.
+License (read from its license file on 2026-11-17): **AGPL-3.0**. Original license files, unchanged: LICENSE, NOTICE.
+
+- `LICENSE`: GNU AFFERO GENERAL PUBLIC LICENSE / Version 3, 19 November 2007 / Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+- `NOTICE`: MinIO Project, (C) 2015-2023 MinIO, Inc. / This product includes software developed at MinIO, Inc. / (https://min.io/).
+
+"minio" is the original project's name; ours is Embryo Object Store, "based on minio". We do not use their names or logos to promote ours.
+
+## When we offer it to people
+- Offer the complete matching source code with any copy we hand out (or a written offer), under the same license.
+- Keep the license and all copyright notices; add no extra restrictions.
+- Changed files carry a notice and a date (CHANGES-EMBRYO.md).
+- AGPL: people who use our changed version over the network (in the apps) must be offered its source: the app shows a link to our repository.
+- Bundled third-party parts keep their own licenses: CHECK them before a release.
+- What people make with the tool belongs to them; the tool's license does not cover its output.
+- No warranty beyond what the license says.
